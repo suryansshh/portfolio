@@ -23,7 +23,7 @@ const linkStyle = {
 function Header() {
   return (
     <header style={headerStyle}>
-      <h1>Piyush Katyal</h1>
+      <h1>Suryansh Sisodia</h1>
       <nav>
         <ul style={navStyle}>
           <li>
